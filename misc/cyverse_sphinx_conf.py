@@ -77,3 +77,4 @@ def setup(app):
     app.add_javascript('cyverse.js')
     app.add_javascript('detail-expand.js')
     app.add_javascript('question-answer.js')
+    app.add_javascript('intercom-script-for-learning.js')
