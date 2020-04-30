@@ -1,6 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
@@ -12,8 +12,11 @@
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
     sharing data ####
 
+
 Goal
 ----
+
+In this tutorial we will learn how to use foo 1.0 to analyze bar.
 
 ..
     #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
@@ -27,12 +30,30 @@ Goal
 
 	Tutorial home <self>
 	Step One <step1.rst>
+	Final Step <final_step.rst>
 	Delete this example guide page <example_directives_delete.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
 	Edit these titles and filenames as needed ####
 
+Tutorial Maintainer(s)
+------------------------
+
+Who to contact if this tutorial needs fixing. You can also email
+`Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
+.. list-table::
+    :header-rows: 1
+
+    * - Maintainer
+      - Institution
+      - Contact
+    * - Your Name
+      - CyVerse / UA
+      - Yourname@email.com
+
+----
 
 Prerequisites
 -------------
@@ -151,12 +172,14 @@ Application(s) used
       - |Atmosphere Image|
       -
 
+----
 
-
-Input and example data
+Input and sample data
 ~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need to have the following inputs prepared*
+
+*In order to complete this tutorial with your own data you will need to have
+the following inputs prepared*
 
 ..
 	#### comment: delete any row not needed in this table ####
@@ -167,22 +190,36 @@ Input and example data
     * - Input File(s)
       - Format
       - Preparation/Notes
-      - Example Data
+      - Sample Data
     * -
       -
       -
       -
 
+.. admonition:: Sample data
+
+   **How to use provided sample data**
+
+   If your tutorial is using data from a paper, talk about it here. Remind
+   the user that instructions for settings or choices specific to the
+   sample data will appear with this colored background.
+
+   **Sample data citation**:
+
+   Cite it here and link to the paper.
+
+
 ----
 
 **Fix or improve this documentation**
 
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 
@@ -205,7 +242,9 @@ Post your question to the user forum:
     :width: 25
     :height: 25
 
-
+.. |Intercomm| image:: ./img/intercom.png
+    :width: 25
+    :height: 25
 
 .. Comment: Place URLS Below This Line
 
@@ -228,7 +267,7 @@ Post your question to the user forum:
 
 .. |DE Application URL|  raw:: html
 
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank">DE Application URL</a>
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
 
 .. |Original App Documentation|  raw:: html
 

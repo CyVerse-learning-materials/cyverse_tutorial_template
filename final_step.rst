@@ -1,6 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
@@ -13,6 +13,15 @@ Section Name
 
 ..
 	#### Comment: short text description goes here ####
+
+.. admonition:: learning-objectives
+
+     - Tutorials should have learning objectives
+     - Ideally with verbs - see |Blooms taxonomy| most of our
+       materials will be know/remember/understand/apply/use (i.e. low-level
+       objectives)
+     - When writing each section, ask if you have provided enough guidance
+       for the reader to accomplish those objectives
 
 ----
 
@@ -64,6 +73,24 @@ Section Name
       -
       -
 
+----
+
+Questions (Optional)
+~~~~~~~~~~~~~~~~~~~~~
+
+  .. admonition:: Question
+
+    1. Test your reader's knowledge with a question
+
+      .. admonition:: Answer
+
+        Give them an answer
+
+    2. Test your reader's knowledge with a question
+
+      .. admonition:: Answer
+
+        Give them an answer
 
 ----
 
@@ -79,18 +106,17 @@ Additional information, help
     Short description and links to any reading materials (KEEP THIS on LAST PAGE
     of Tutorial)
 
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
 
 ----
 
 **Fix or improve this documentation**
 
-- On Github: |Github Repo Link|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----

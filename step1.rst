@@ -1,6 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
@@ -11,8 +11,21 @@ Section Name
 
 **Description:**
 
+Describe this step. You should copy this page as many times as needed
+e.g. step2.rst, step3.rst, etc. 
+
 ..
 	#### Comment: short text description goes here ####
+
+
+.. admonition:: learning-objectives
+
+     - Tutorials should have learning objectives
+     - Ideally with verbs - see |Blooms taxonomy| most of our
+       materials will be know/remember/understand/apply/use (i.e. low-level
+       objectives)
+     - When writing each section, ask if you have provided enough guidance
+       for the reader to accomplish those objectives
 
 ----
 
@@ -34,13 +47,16 @@ Section Name
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1.
+1. Replace the text below with your own
 
-2.
+2. Click :guilabel:`&Cancel` to continue is how you can show a button
 
-3.
+3. Tell the user to choose an appropriate value for a setting
 
+   .. admonition:: sample-data
 
+     Tell them if they are following with our sample data exactly
+     what value to choose
 
 ..
 	#### Comment: Suggested style guide:
@@ -64,6 +80,37 @@ Section Name
       -
       -
 
+----
+
+
+Questions (Optional)
+~~~~~~~~~~~~~~~~~~~~~
+
+  .. admonition:: Question
+
+    1. Test your reader's knowledge with a question
+
+      .. admonition:: Answer
+
+        Give them an answer
+
+    2. Test your reader's knowledge with a question
+
+      .. admonition:: Answer
+
+        Give them an answer
+
+----
+
+Exercise (Optional)
+~~~~~~~~~~~~~~~~~~~
+
+  .. admonition:: Exercise
+
+     Suggest to the user something extra they can do to test or extend their
+     knowledge
+
+
 
 ----
 
@@ -74,12 +121,13 @@ Section Name
 
 **Fix or improve this documentation**
 
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 
@@ -117,3 +165,7 @@ Post your question to the user forum:
 .. |Github Repo Link|  raw:: html
 
    <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+
+.. |Blooms taxonomy|  raw:: html
+
+   <a href="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/" target="blank">Blooms taxonomy</a>
