@@ -60,11 +60,54 @@ Then, as you have instructions, intersperse the sample data .. admonition
     2. Continue with next step...
 
 
+Using in-line questions with tips
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sometimes you may want to ask in-line questions.
+
+    .. admonition:: Question
+       :class: admonition-question
+
+       How do you get to Carnegie Hall?
+
+       .. admonition:: Answer
+
+          *Practice, practice, practice*
+
+You can hide long sections of text...
+
+.. admonition:: Expand to read more
+
+    **Open a connection to a public folder**
+
+      1. Open CyberDuck
+      2. If the browser is not already open, select File - New Browser
+      3. Create a new connection by clicking on the + in the lower right
+    	   (next to the pencil and minus sign)
+      4. In the top dropdown menu, select iPlant Data Store
+      5. In the dialog box, name your connection something relevant, like the name
+    	   of the folder you want to browse to
+      6. Enter your user name in the appropriate field. If you are connecting to
+    	   public folder, you can also enter anonymous in this field
+      7. In the Path field, enter /iplant/home/shared, or some subdirectory.
+      8. Close the dialog window. Now, in your list of connections, you should see
+    	   a new connection with the name you chose. Click on that, and you should go
+    		 directly to the public folder.
+
+
+
+
 Other admonitions
 ~~~~~~~~~~~~~~~~~~~
 
 There are several admonitions you can use, but tip and warning are the most
 common for our documentation.
+
+    .. admonition:: learning-objectives
+
+       - Objective 1
+       - Objective 2
+       - Objective 3
 
     .. tip::
          If you don't see a desired species/genome `contact us <https://dnasubway.cyverse.org/feedback.html>`_ to have it added
