@@ -12,7 +12,7 @@ extensions = [
 project = 'YOUR PROJECT NAME HERE as topic_tutorial'
 copyright = '2020, CyVerse'
 author = 'CyVerse'
-version = '2.1'
+version = '2.0'
 release = '2.0'
 
 language = None

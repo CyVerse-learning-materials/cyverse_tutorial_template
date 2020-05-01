@@ -12,7 +12,7 @@ Section Name
 **Description:**
 
 Describe this step. You should copy this page as many times as needed
-e.g. step2.rst, step3.rst, etc. 
+e.g. step2.rst, step3.rst, etc.
 
 ..
 	#### Comment: short text description goes here ####
@@ -49,9 +49,14 @@ e.g. step2.rst, step3.rst, etc.
 
 1. Replace the text below with your own
 
-2. Click :guilabel:`&Cancel` to continue is how you can show a button
+2. Use the image src in this link to link to
 
-3. Tell the user to choose an appropriate value for a setting
+   - A DE App: |DE App|
+   - An Atmosphere image: |Atmosphere Image|
+
+3. Click :guilabel:`&Cancel` to continue is how you can show a button
+
+4. Tell the user to choose an appropriate value for a setting
 
    .. admonition:: sample-data
 
@@ -169,3 +174,11 @@ Exercise (Optional)
 .. |Blooms taxonomy|  raw:: html
 
    <a href="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/" target="blank">Blooms taxonomy</a>
+
+.. |DE App| raw:: html
+
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
+.. |Atmosphere Image| raw:: html
+
+   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
