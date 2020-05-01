@@ -12,8 +12,8 @@ from misc.cyverse_sphinx_conf import *  # noqa
 project = 'YOUR PROJECT NAME HERE as topic_tutorial'
 copyright = '2020, CyVerse'
 author = 'your_name'
-version = '1.0'
-release = '1.0'
+version = '2.0'
+release = '2.0'
 
 epub_title = project
 epub_author = author
