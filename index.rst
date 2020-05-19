@@ -1,4 +1,5 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_urls.txt
 
 |CyVerse logo|_
 
@@ -131,7 +132,7 @@ Application(s) used
     * - Muscle
       - 3.8.31
       - Multiple sequence aligner
-      -	|DE Application URL|
+      -	|CyVerse_launch|
       - |Original App Documentation|
 
 
@@ -148,7 +149,7 @@ Application(s) used
     * - CyVerse CentOS 6.8 GUI Base
       - 1.0
       - base image CentOS 6.8 with GNOME GUI
-      - |Atmosphere Image|
+      - |CyVerse_launch|
       -
 
 
@@ -223,14 +224,6 @@ Search for an answer:
 
    <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
 
-.. |DE Application URL|  raw:: html
-
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank">DE Application URL</a>
-
 .. |Original App Documentation|  raw:: html
 
    <a href="http://www.drive5.com/muscle/manual/" target="blank">Original App Documentation</a>
-
-.. |Atmosphere Image|  raw:: html
-
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank">Atmosphere Image</a>

@@ -1,4 +1,5 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_urls.txt
 
 |CyVerse logo|_
 
@@ -34,11 +35,21 @@ Section Name
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1.
+1. Replace the text below with your own
 
-2.
+2. Use the image src in this link to link to
 
-3.
+   - A DE App: |CyVerse_launch|
+   - An Atmosphere image: |CyVerse_launch|
+
+3. Click :guilabel:`&Cancel` to continue is how you can show a button
+
+4. Tell the user to choose an appropriate value for a setting
+
+   .. admonition:: sample-data
+
+     Tell them if they are following with our sample data exactly
+     what value to choose
 
 
 
