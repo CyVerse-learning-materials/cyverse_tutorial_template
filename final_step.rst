@@ -99,7 +99,7 @@ Search for an answer:
 **Fix or improve this documentation**
 
 - On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
 
