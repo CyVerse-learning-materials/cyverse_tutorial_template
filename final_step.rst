@@ -98,7 +98,12 @@ Search for an answer:
 
 **Fix or improve this documentation**
 
-- On Github: |Github Repo Link|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
