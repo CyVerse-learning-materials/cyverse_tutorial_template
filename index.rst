@@ -23,6 +23,23 @@ Goal
 
 ----
 
+Tutorial Maintainer(s)
+------------------------
+
+Who to contact if this guide needs fixing. You can also email
+`learning@CyVerse.org <learning@CyVerse.org>`_
+
+.. list-table::
+    :header-rows: 1
+
+    * - Maintainer
+      - Institution
+      - Contact
+    * - Your Name
+      - CyVerse / UA
+      - Yourname@email.com
+----
+
 .. toctree::
 	:maxdepth: 2
 
